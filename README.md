@@ -1,0 +1,1 @@
+Hello. This is my first project after 1 year of study web developing in HTML, CSS and JavaScript. This project is for IT companies and recruiters to see what i know. I hope you will like it. Thank you. Peter;)
